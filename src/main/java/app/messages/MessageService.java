@@ -1,9 +1,12 @@
 package app.messages;
 
+import org.springframework.stereotype.Component;
+
 /**
  * MessageService.java is the application service that provides API's
  * for its clients.
  */
+@Component
 public class MessageService {
     private MessageRepository repository;
 
