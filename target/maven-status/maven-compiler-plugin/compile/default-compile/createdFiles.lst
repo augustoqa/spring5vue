@@ -2,5 +2,6 @@ app\messages\Message.class
 app\messages\MessageRepository.class
 app\messages\Application.class
 app\messages\MessageService.class
+app\messages\AuditingFilter.class
 app\messages\AppConfig.class
 app\messages\MessageController.class
